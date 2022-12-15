@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading {
+    text-align: center;
+    font-weight: bold;
+    font-size: 3rem;
+    margin-bottom: 0;
+}
+.custom-btn {
+    background: #ff0e0b !important;
+    color: #FFF !important;
+}
+.custom-btn:hover {
+    background: #ffc9e0 !important;
+    color: #ff0e0b !important;
+}
+.btn-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+.custom-icon {
+    margin-right: 5px;
+}
+.control-label {
+    font-size: 1.5rem;
+    text-align: center;
+    display: block;
+    font-weight: 500;
+}
+.display-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 1rem;
+    margin:0 auto;
+    display:block;
+}
+.pink {
+    color: #f56da7;
+}
+.red {
+    color: #ff0e0b;
+    font-style: unset;
+}
